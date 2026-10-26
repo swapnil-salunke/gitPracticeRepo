@@ -1,0 +1,2 @@
+# gitPracticeRepo
+Practicing Github Code
